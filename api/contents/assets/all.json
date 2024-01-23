@@ -1,0 +1,29 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2024-01-23T09:45:19.886965Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2024-01-23T09:44:24.687329Z",
+      "mimetype": null,
+      "name": "example.parquet",
+      "path": "assets/example.parquet",
+      "size": 498993,
+      "type": "file",
+      "writable": true
+    }
+  ],
+  "created": "2024-01-23T09:45:19.886965Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2024-01-23T09:45:19.886965Z",
+  "mimetype": null,
+  "name": "assets",
+  "path": "assets",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

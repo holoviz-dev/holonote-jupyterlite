@@ -1,0 +1,57 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2024-01-23T09:45:19.890965Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2024-01-23T09:45:19.890965Z",
+      "mimetype": null,
+      "name": "basics",
+      "path": "basics",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2024-01-23T09:45:19.886965Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2024-01-23T09:45:19.886965Z",
+      "mimetype": null,
+      "name": "assets",
+      "path": "assets",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2024-01-23T09:45:19.890965Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2024-01-23T09:45:19.890965Z",
+      "mimetype": null,
+      "name": "tutorial",
+      "path": "tutorial",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    }
+  ],
+  "created": "2024-01-23T09:45:19.890965Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2024-01-23T09:45:19.890965Z",
+  "mimetype": null,
+  "name": "",
+  "path": "",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
