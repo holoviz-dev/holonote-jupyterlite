@@ -1,0 +1,57 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2024-09-10T14:20:52.599907Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2024-09-10T14:20:24.919995Z",
+      "mimetype": null,
+      "name": "Basics_2D.ipynb",
+      "path": "basics/Basics_2D.ipynb",
+      "size": 16488,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2024-09-10T14:20:52.599907Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2024-09-10T14:20:24.919995Z",
+      "mimetype": null,
+      "name": "Basics.ipynb",
+      "path": "basics/Basics.ipynb",
+      "size": 16480,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2024-09-10T14:20:52.599907Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2024-09-10T14:20:24.919995Z",
+      "mimetype": null,
+      "name": "MultiPlot.ipynb",
+      "path": "basics/MultiPlot.ipynb",
+      "size": 5094,
+      "type": "notebook",
+      "writable": true
+    }
+  ],
+  "created": "2024-09-10T14:20:52.599907Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2024-09-10T14:20:52.599907Z",
+  "mimetype": null,
+  "name": "basics",
+  "path": "basics",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}

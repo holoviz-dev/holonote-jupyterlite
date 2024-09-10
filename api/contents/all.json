@@ -1,0 +1,71 @@
+{
+  "content": [
+    {
+      "content": null,
+      "created": "2024-09-10T14:20:52.599907Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2024-09-10T14:20:24.919995Z",
+      "mimetype": null,
+      "name": "Reset_Jupyterlite.ipynb",
+      "path": "Reset_Jupyterlite.ipynb",
+      "size": 2242,
+      "type": "notebook",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2024-09-10T14:20:52.595907Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2024-09-10T14:20:52.595907Z",
+      "mimetype": null,
+      "name": "assets",
+      "path": "assets",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2024-09-10T14:20:52.599907Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2024-09-10T14:20:52.599907Z",
+      "mimetype": null,
+      "name": "basics",
+      "path": "basics",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    },
+    {
+      "content": null,
+      "created": "2024-09-10T14:20:52.599907Z",
+      "format": null,
+      "hash": null,
+      "hash_algorithm": null,
+      "last_modified": "2024-09-10T14:20:52.599907Z",
+      "mimetype": null,
+      "name": "tutorial",
+      "path": "tutorial",
+      "size": null,
+      "type": "directory",
+      "writable": true
+    }
+  ],
+  "created": "2024-09-10T14:20:52.599907Z",
+  "format": "json",
+  "hash": null,
+  "hash_algorithm": null,
+  "last_modified": "2024-09-10T14:20:52.599907Z",
+  "mimetype": null,
+  "name": "",
+  "path": "",
+  "size": null,
+  "type": "directory",
+  "writable": true
+}
